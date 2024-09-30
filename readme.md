@@ -9,3 +9,4 @@
 
 ### Structural
 - [Adapter](https://www.notion.so/kaua-pereira/Adapter-11079d509db3803689d0d24602b021bc)
+- [Facade](https://www.notion.so/kaua-pereira/Facade-11079d509db380bfacc9ff850729943b)
