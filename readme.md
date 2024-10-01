@@ -13,3 +13,4 @@
 
 ### Behavioral
 - [Mediator](https://www.notion.so/kaua-pereira/Mediator-11079d509db380e6ab12f31478c9db46)
+- [Observer](https://www.notion.so/kaua-pereira/Observer-11079d509db380e19564fb6ab0554ea4)
