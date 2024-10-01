@@ -18,3 +18,4 @@
 - [Template Method](https://www.notion.so/kaua-pereira/Template-Method-11079d509db38062a0d0e46e2c353040)
 - [Strategy](https://www.notion.so/kaua-pereira/Strategy-11079d509db380aab798d1a00ac1719c)
 - [Chain of Responsibility](https://www.notion.so/kaua-pereira/Chain-of-Responsibility-11079d509db38020910df1de1aaacdd3)
+- [Command](https://www.notion.so/kaua-pereira/Command-11079d509db380fea7bafbca8812973a)
