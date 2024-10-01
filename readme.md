@@ -17,3 +17,4 @@
 - [Observer](https://www.notion.so/kaua-pereira/Observer-11079d509db380e19564fb6ab0554ea4)
 - [Template Method](https://www.notion.so/kaua-pereira/Template-Method-11079d509db38062a0d0e46e2c353040)
 - [Strategy](https://www.notion.so/kaua-pereira/Strategy-11079d509db380aab798d1a00ac1719c)
+- [Chain of Responsibility](https://www.notion.so/kaua-pereira/Chain-of-Responsibility-11079d509db38020910df1de1aaacdd3)
