@@ -11,6 +11,7 @@
 ### Structural
 - [Adapter](https://www.notion.so/kaua-pereira/Adapter-11079d509db3803689d0d24602b021bc)
 - [Facade](https://www.notion.so/kaua-pereira/Facade-11079d509db380bfacc9ff850729943b)
+- [Composite](https://www.notion.so/kaua-pereira/Composite-11079d509db380f6a521d4bc25f6f7f2)
 
 ### Behavioral
 - [Mediator](https://www.notion.so/kaua-pereira/Mediator-11079d509db380e6ab12f31478c9db46)
