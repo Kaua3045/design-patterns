@@ -13,6 +13,7 @@
 - [Facade](https://www.notion.so/kaua-pereira/Facade-11079d509db380bfacc9ff850729943b)
 - [Composite](https://www.notion.so/kaua-pereira/Composite-11079d509db380f6a521d4bc25f6f7f2)
 - [Decorator](https://www.notion.so/kaua-pereira/Decorator-11079d509db380dc847ee5ecbc94d947)
+- [Proxy](https://www.notion.so/kaua-pereira/Proxy-11079d509db380b38d0ff125d6d19096)
 
 ### Behavioral
 - [Mediator](https://www.notion.so/kaua-pereira/Mediator-11079d509db380e6ab12f31478c9db46)
